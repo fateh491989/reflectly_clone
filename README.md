@@ -1,6 +1,7 @@
 # Reflectly Clone Flutter
 A Flutter Reflectly Clone.
-![g](https://drive.google.com/file/d/1GKl90nelzatBBfXZR0VbSvYN47-_V5if/view?usp=drivesdk)
+
+![ezgif-7-02b189fbbaba](https://user-images.githubusercontent.com/16588377/103438954-a2638500-4c5e-11eb-819f-178aa73bba18.gif)
 
 
 ### Created & Maintained By
